@@ -1,9 +1,5 @@
-# ArvindToorpu
-Hello, I’m Arvind Toorpu, an Oracle Certified Professional (OCP) working as a Cloud Ops DBA manager with over 13 years of diverse experience in architecting, implementing, and administering databases. My expertise spans across Oracle, SQL Server, MySQL, and PostgreSQL, among others, in both production and non-production environments. I have worked extensively with various operating systems, including Red Hat Linux, HP-UX, Sun Solaris, IBM AIX, and Windows Server.
-
-As a passionate database professional, I specialize in performance tuning, database migrations, high availability architecture, and implementing disaster recovery solutions. Throughout my career, I have led major projects, including the migration of hundreds of databases to cloud platforms like AWS, Azure, and Oracle Cloud Infrastructure (OCI). My roles have ranged from hands-on database management to leading teams in cloud operations, where we’ve configured and optimized complex database environments to meet business needs. I have a strong background in capacity planning and resource allocation, ensuring that database resources are effectively utilized while managing costs through strategic cost management and cost optimization. My expertise in data modeling and query optimization enhances system performance, while my troubleshooting skills enable me to provide 24/7 support, ensuring operational excellence and reliability
-
-I am committed to continuous learning and enjoy sharing my knowledge with the community. I regularly write about my experiences and insights on database management, cloud migrations, and best practices on this blog and in other tech forums. My goal is to help others navigate the evolving landscape of database technologies, leveraging my practical insights and deep technical expertise.
-When I’m not managing databases, I’m exploring new technologies, enhancing my skills through certifications, and engaging with the tech community. I hold certifications in AWS Cloud Solutions Architecture, Oracle Autonomous Database, and other advanced database security practices.
-
-Thank you for visiting this page! I hope you find the content helpful and informative. Feel free to connect with me on LinkedIn or check out my blog posts to learn more about my journey in the world of databases.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
