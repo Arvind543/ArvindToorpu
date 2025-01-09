@@ -82,6 +82,4 @@ To be added
 </p>
 
 -----
-Credit: [Jiji C.](https://github.com/XXXXX)
 
-Last edited on: 06/03/2021
